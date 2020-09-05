@@ -11,5 +11,4 @@ export class AddCityTileComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }

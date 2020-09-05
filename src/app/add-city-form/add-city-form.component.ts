@@ -11,5 +11,4 @@ export class AddCityFormComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }

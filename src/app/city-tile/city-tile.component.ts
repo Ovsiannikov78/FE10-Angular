@@ -26,5 +26,4 @@ export class CityTileComponent implements OnInit {
   setPathIfNotEmpty(): void {
     this.path = this.path ? this.path : 'city/' + this.city;
   }
-
 }
