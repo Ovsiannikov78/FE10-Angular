@@ -1,10 +1,12 @@
 {
   "cities": [
     {
+      "id": 1,
       "name": "Berlin",
       "imageUrl": "assets/img/berlin.jpg"
     },
     {
+      "id": 2,
       "name": "Prague",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg"
     },
@@ -12,6 +14,16 @@
       "id": 3,
       "name": "Paris",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/450px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Moscow",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Spasskaya_Tower_and_the_St._Basil%27s_Cathedral.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Palma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/18-11-30-Palma_de_Mallorca-RalfR2-100_0316.jpg/2880px-18-11-30-Palma_de_Mallorca-RalfR2-100_0316.jpg"
     }
   ]
 }
